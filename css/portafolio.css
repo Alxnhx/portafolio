@@ -399,7 +399,7 @@ nav a:hover {
 }  
 
 .project3 {
-  animation: project3Slider 8s infinite;
+  animation: project3Slider 10s infinite;
 }
 @keyframes project3Slider {
   0%   { background-image: url(../items/portafolio/proyecto3/Captura\ de\ pantalla\ \(85\).png); }
@@ -409,16 +409,16 @@ nav a:hover {
 }  
 
 .project4 {
-  animation: project4Slider 8s infinite;
+  animation: project4Slider 12s infinite;
 }
 @keyframes project4Slider {
   0%   { background-image: url(../items/portafolio/proyecto4/Captura\ de\ pantalla\ \(89\).png); }
-  50%  { background-image: url(../items/portafolio/proyecto4/Captura\ de\ pantalla\ \(91\).png); }
-  100% { background-image: url(../items/portafolio/proyecto4/Captura\ de\ pantalla\ \(92\).png); }
-  100% { background-image: url(../items/portafolio/proyecto4/Captura\ de\ pantalla\ \(93\).png); }
-  100% { background-image: url(../items/portafolio/proyecto4/Captura\ de\ pantalla\ \(94\).png); }
+  20%  { background-image: url(../items/portafolio/proyecto4/Captura\ de\ pantalla\ \(91\).png); }
+  40% { background-image: url(../items/portafolio/proyecto4/Captura\ de\ pantalla\ \(92\).png); }
+  60% { background-image: url(../items/portafolio/proyecto4/Captura\ de\ pantalla\ \(93\).png); }
+  80% { background-image: url(../items/portafolio/proyecto4/Captura\ de\ pantalla\ \(94\).png); }
   100% { background-image: url(../items/portafolio/proyecto4/Captura\ de\ pantalla\ \(95\).png); }
-}  
+}    
 
 .modal {
   display: none; 
